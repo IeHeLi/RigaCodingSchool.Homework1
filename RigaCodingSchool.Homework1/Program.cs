@@ -11,6 +11,7 @@ namespace RigaCodingSchool.Homework2
             Console.WriteLine("I am a begginer to coding, and this is my first time trying anything!");
             Console.WriteLine("I am still a student and I study Sociology!");
             Console.WriteLine("In my free time I love cooking and reading books!");
+            //comment
         
             Console.ReadLine();
         }
